@@ -1,8 +1,6 @@
 package codewars7kyu.FunWithListsLength;
 
 
-import java.util.Arrays;
-
 public class FunWithListsLength {
     public static int length(Node head) {
         int sum = 1;
